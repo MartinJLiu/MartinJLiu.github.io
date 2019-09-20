@@ -1,4 +1,24 @@
 *{background-color:rgb(246,246,246);}
+.gNav{
+    height: 40px;
+    line-height: 40px;
+    position: relative;
+    margin: 0 6px;
+    text-align: center;
+    background-repeat: repeat-x;
+    background-position: 0 0;
+}
+
+.navbtn{
+    background-color: #5778fb;
+    display: inline-block;
+    zoom: 1;
+    text-decoration: none;
+    padding: 0 17px;
+    font-weight: bold;
+    color: #fff;
+}
+
 #webTitle, #webSlogan{
     text-align: center;
 } 
